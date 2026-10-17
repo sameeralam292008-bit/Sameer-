@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Golden Ring -->
+    <path
+        android:strokeWidth="3"
+        android:pathData="M54,54m-26,0a26,26 0,1 1,52 0a26,26 0,1 1,-52 0">
+        <aapt:attr name="android:strokeColor">
+            <gradient
+                android:startX="28"
+                android:startY="28"
+                android:endX="80"
+                android:endY="80"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#FFE082"/>
+                <item android:offset="0.5" android:color="#FFD700"/>
+                <item android:offset="1.0" android:color="#FF8F00"/>
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Casino Chip Dashed Rim Teeth -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M52,24h4v6h-4z M52,78h4v6h-4z M24,52h6v4h-6z M78,52h6v4h-6z M33,33l3.5,3.5l-2.8,2.8l-3.5,-3.5z M71.5,71.5l3.5,3.5l-2.8,2.8l-3.5,-3.5z M75,33l-3.5,3.5l2.8,2.8l3.5,-3.5z M36.5,71.5l-3.5,3.5l2.8,2.8l3.5,-3.5z" />
+
+    <!-- Center Casino Token Inner Circle -->
+    <path
+        android:pathData="M54,54m-20,0a20,20 0,1 1,40 0a20,20 0,1 1,-40 0">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="34"
+                android:startY="34"
+                android:endX="74"
+                android:endY="74"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#00E5FF"/>
+                <item android:offset="1.0" android:color="#0091EA"/>
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Crown at Top of Center -->
+    <path
+        android:fillColor="#FFF8E1"
+        android:pathData="M43,44l3,-6l4,3l4,-5l4,5l4,-3l3,6z" />
+
+    <!-- CashFlow Dynamic Arrow / Currency Pro Crest -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M46,55h11v-4l6,6l-6,6v-4h-11z" />
+    <path
+        android:fillColor="#00E676"
+        android:pathData="M62,59h-11v4l-6,-6l6,-6v4h11z" />
+
+    <!-- Sparkle Stars -->
+    <path
+        android:fillColor="#FFEB3B"
+        android:pathData="M54,34l1.2,2.5l2.6,0.4l-1.9,1.8l0.4,2.6l-2.3,-1.2l-2.3,1.2l0.4,-2.6l-1.9,-1.8l2.6,-0.4z" />
+</vector>

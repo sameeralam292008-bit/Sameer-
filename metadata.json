@@ -1,0 +1,6 @@
+{
+  "name": "CashFlow Pro",
+  "description": "CashFlow Pro is a premier gaming platform featuring Aviator, Chicken Road, Hot Spin, Crazy 777, Vortex Boom, and Coin Flip, with UPI deposit/withdrawal, admin verification, and live support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
